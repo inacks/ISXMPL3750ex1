@@ -1,4 +1,4 @@
-# IS3750 Arduino Trafic Light Example
+# IS3750 Arduino Traffic Light Example
 
 ## Description
 
