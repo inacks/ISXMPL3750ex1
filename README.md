@@ -10,7 +10,5 @@ If you're using the Kappa3750Ard or Kappa3750Rasp Evaluation Board, set the "I2C
 
 ---
 
-For more information, check the [product page](https://www.inacks.com/is3750).
-
-www.inacks.com
+🔗 Learn more on the [IS3750 product page](https://www.inacks.com/is3750) at [inacks.com](https://www.inacks.com).
 
